@@ -171,6 +171,16 @@ p a img {
 	
 }
 
+p.container a img {
+	
+	border: 0px solid var(--background-color);
+	border-radius: 0px;
+	box-shadow: 0px 0px 0px var(--box-shadow-light), -0px -0px 0px var(--box-shadow-dark);
+	margin: 0px;
+	padding: 0px;
+	
+}
+
 span.red { color: #ff0000; }
 
 ul {
