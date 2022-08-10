@@ -161,26 +161,6 @@ p {
 
 p.container { display: block; }
 
-p a img {
-	
-	border: 1px solid var(--background-color);
-	border-radius: 10px;
-	box-shadow: 7px 7px 17px var(--box-shadow-light), -7px -7px 17px var(--box-shadow-dark);
-	margin: 10px;
-	padding: 24px;
-	
-}
-
-p.container a img {
-	
-	border: 0px solid var(--background-color);
-	border-radius: 0px;
-	box-shadow: 0px 0px 0px var(--box-shadow-light), -0px -0px 0px var(--box-shadow-dark);
-	margin: 0px;
-	padding: 0px;
-	
-}
-
 span.red { color: #ff0000; }
 
 ul {
