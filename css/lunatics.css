@@ -1,0 +1,13 @@
+/* CSS Document */
+
+@import url("https://assets.nosiphus.com/css/main.css");
+
+:root {
+	
+	--background-color: #FFE7B3;
+	--box-shadow-light: #D9C498;
+	--box-shadow-dark: #FFFFCE;
+	--link-color: #FF3E29;
+	--text-color: #FF6600;
+	
+}
