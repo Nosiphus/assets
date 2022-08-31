@@ -142,7 +142,7 @@ li img {
 	top: 0;
 	left: 0;
 	right: 0;
-	width: auto;
+	width: 100%;
 	
 }
 
@@ -172,10 +172,11 @@ ul {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
-	margin: 2.5%;
+	margin-left: 2.5%;
+	margin-right: 2.5%;
 	overflow: hidden;
 	padding: 0.5%;
-	width: 100%;
+	width: 93.5%;
 	
 }
 
