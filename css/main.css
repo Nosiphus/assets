@@ -170,7 +170,7 @@ ul {
 	border-radius: 10px;
 	box-shadow: 7px 7px 17px var(--box-shadow-light), -7px -7px 17px var(--box-shadow-dark);
 	display: flex;
-	flex-flow: row nowrap;
+	flex-flow: row wrap;
 	justify-content: center;
 	margin: 2.5%;
 	overflow: hidden;
