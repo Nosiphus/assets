@@ -172,11 +172,10 @@ ul {
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content: center;
-	margin-left: 2.5%;
-	margin-right: 2.5%;
+	margin: 2.5%;
 	overflow: hidden;
 	padding: 0.5%;
-	width: 93.5%;
+	width: 100%;
 	
 }
 
