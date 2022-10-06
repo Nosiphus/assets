@@ -170,9 +170,6 @@ ul {
 	border: 1px solid var(--background-color);
 	border-radius: 10px;
 	box-shadow: 7px 7px 17px var(--box-shadow-light), -7px -7px 17px var(--box-shadow-dark);
-	display: flex;
-	flex-flow: row wrap;
-	justify-content: center;
 	margin-left: 2.5%;
 	margin-right: 2.5%;
 	overflow: hidden;
