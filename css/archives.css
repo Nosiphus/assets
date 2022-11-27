@@ -1,0 +1,142 @@
+/* CSS Document */
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap&subset=latin-ext');
+
+* { font-family: 'Libre Franklin', sans-serif; }
+
+a {
+	color: #2aabdf;
+	text-decoration: none;
+}
+
+.column { background-color: #ffffff; }
+
+#copyright-data {
+	
+	background-color: #ffffff;
+	border-top-color: #000000;
+	border-top-style: solid;
+	border-top-width: thin;
+	color: #000000;
+	font-size: 20px;
+	line-height: 28px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: center;
+	
+}
+
+.dropdown {
+	
+	display: block;
+	position: relative;
+	
+}
+
+.dropdown-content {
+	
+	background-color: #ffffff;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	display: none;
+	min-width: 160px;
+	position: absolute;
+	z-index: 1;
+	
+}
+
+.dropdown:hover .dropdown-content { display: block; }
+
+h1 {
+	
+	color: #7dc7ea;
+	font-size: 36px;
+	line-height: 44px;
+	text-align: center;
+	
+}
+
+li a {
+	
+	color: #000000;
+	display: block;
+	padding: 8px 16px;
+	text-decoration: none;
+	
+}
+
+li a:hover { background-color: #CACACA; }
+
+.left {
+	
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-right-width: thin;
+	width: 20%;
+	
+}
+
+#logoholder {
+	
+	background-color: #ffffff;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	
+}
+
+p {
+	
+	color: #000000;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 28px;
+	text-align: center;
+	word-wrap: break-word;
+	
+}
+
+p.l {
+	
+	color: #000000;
+	font-size: 20px;
+	line-height: 28px;
+	text-align: left;
+	word-wrap: break-word;
+	
+}
+
+.right {
+	
+	padding-left: 20px;
+	padding-right: 20px;
+	width: 80%;
+	
+}
+
+.row {
+	
+	display: flex;
+	padding: 0;
+	
+}
+
+span.b {
+	
+	color: #0038FF;
+	font-size: 20px;
+	line-height: 28px;
+	text-align: left;
+	word-wrap: break-word;
+	
+}
+
+span.red { color: #FF0000; }
+
+ul {
+	
+	background-color: #ffffff;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	
+}
