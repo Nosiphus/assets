@@ -9,6 +9,8 @@ a {
 	text-decoration: none;
 }
 
+body { background-color: #00ffff; }
+
 .column { background-color: #ffffff; }
 
 #copyright-data {
